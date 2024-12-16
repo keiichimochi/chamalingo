@@ -1,0 +1,401 @@
+---
+- **熟語:** abide by
+  **意味:** ～に従う、～を守る
+  **例文:** You must abide by the rules of the game. (ゲームのルールに従わなければなりません。)
+
+- **熟語:** add up to
+  **意味:** 合計～になる、結局～になる
+  **例文:** The costs add up to a large amount. (費用は合計でかなりの額になる。)
+
+- **熟語:** all in all
+  **意味:** 概して、全体的に見て
+  **例文:** All in all, it was a great trip. (概して、それは素晴らしい旅行でした。)
+
+- **熟語:** as a result of
+  **意味:** ～の結果として
+  **例文:** The game was canceled as a result of the heavy rain. (大雨の結果、試合は中止になりました。)
+
+- **熟語:** as for
+  **意味:** ～について言えば、～に関しては
+  **例文:** As for the movie, I thought it was excellent. (映画について言えば、素晴らしいと思いました。)
+
+- **熟語:** at a loss
+  **意味:** 途方に暮れて、困って
+  **例文:** I was at a loss for words. (私は言葉に詰まってしまった。)
+
+- **熟語:** at the expense of
+  **意味:** ～を犠牲にして
+  **例文:** He succeeded at the expense of his health. (彼は健康を犠牲にして成功した。)
+
+- **熟語:** back out
+  **意味:** (約束などを)撤回する、手を引く
+  **例文:** He backed out of the agreement at the last minute. (彼は土壇場で合意を撤回した。)
+
+- **熟語:** be apt to
+  **意味:** ～しがちである、～する傾向がある
+  **例文:** He is apt to forget things. (彼は忘れっぽい傾向がある。)
+
+- **熟語:** be bound to
+  **意味:** きっと～する、～するに違いない
+  **例文:** It's bound to rain later. (後で必ず雨が降るだろう。)
+
+- **熟語:** be due to
+  **意味:** ～が原因である、～の予定である
+  **例文:** The meeting is due to start at 10 am. (会議は午前10時に始まる予定です。)
+
+- **熟語:** be in charge of
+  **意味:** ～を担当している、～の責任者である
+  **例文:** She is in charge of the marketing department. (彼女はマーケティング部門の責任者です。)
+
+- **熟語:** be keen on
+  **意味:** ～に熱心である、～が好きである
+  **例文:** He is very keen on playing tennis. (彼はテニスをするのがとても好きだ。)
+
+- **熟語:** be likely to
+  **意味:** ～しそうである、～の可能性がある
+  **例文:** It is likely to snow tonight. (今夜は雪が降りそうだ。)
+
+- **熟語:** be opposed to
+  **意味:** ～に反対である
+  **例文:** I am opposed to the new policy. (私はその新しい政策に反対です。)
+
+- **熟語:** bear with
+  **意味:** ～に我慢する、～を辛抱する
+  **例文:** Please bear with me while I explain. (説明しますので、しばらくお待ちください。)
+
+- **熟語:** blow up
+  **意味:** 爆発する、激怒する
+  **例文:** The building blew up during the earthquake. (地震で建物が爆発した。)
+
+- **熟語:** break away
+  **意味:** ～から離脱する、～から逃れる
+  **例文:** The prisoners broke away from their guards. (囚人たちは看守から逃れた。)
+
+- **熟語:** bring about
+  **意味:** ～を引き起こす、～をもたらす
+  **例文:** The new law brought about significant changes. (新しい法律は大きな変化をもたらした。)
+
+- **熟語:** bring up
+  **意味:** (子供を)育てる、(話題を)持ち出す
+  **例文:** She brought up three children on her own. (彼女は一人で3人の子供を育てた。)
+
+- **熟語:** bump into
+  **意味:** ～に偶然出会う、～にぶつかる
+  **例文:** I bumped into an old friend at the store. (店で旧友に偶然出会った。)
+
+- **熟語:** burn out
+  **意味:** 燃え尽きる、(人が)疲弊する
+  **例文:** He burned out after working long hours. (彼は長時間労働で疲弊してしまった。)
+
+- **熟語:** call on
+  **意味:** ～を訪問する、～を求める
+  **例文:** We decided to call on our grandparents this weekend. (私たちは今週末に祖父母を訪問することにした。)
+
+- **熟語:** care for
+  **意味:** ～の世話をする、～が好きである
+  **例文:** She cares for her elderly mother. (彼女は高齢の母親の世話をしている。)
+
+- **熟語:** carry on
+  **意味:** ～を続ける、～を営む
+  **例文:** The business has carried on for over 100 years. (その事業は100年以上続いている。)
+
+- **熟語:** catch up with
+  **意味:** ～に追いつく、～と近況を話す
+  **例文:** I need to catch up with my studies. (私は勉強に追いつく必要がある。)
+
+- **熟語:** check in
+  **意味:** (ホテルなどに)チェックインする、(空港で)搭乗手続きをする
+  **例文:** We need to check in at the hotel. (私たちはホテルにチェックインする必要がある。)
+
+- **熟語:** check out
+  **意味:** (ホテルなどから)チェックアウトする、～を調べる
+  **例文:** We checked out of the hotel early. (私たちはホテルを早めにチェックアウトした。)
+
+- **熟語:** clear up
+  **意味:** (天気などが)晴れる、～を解決する
+  **例文:** The weather cleared up after the storm. (嵐の後、天気は晴れた。)
+
+- **熟語:** come along
+  **意味:** 一緒に来る、(事が)進む
+  **例文:** Do you want to come along to the party? (パーティーに一緒に来たいですか？)
+
+- **熟語:** come into
+  **意味:** (遺産などを)受け継ぐ、～に入る
+  **例文:** She came into a large sum of money. (彼女は多額の遺産を受け継いだ。)
+
+- **熟語:** cope with
+  **意味:** ～に対処する、～をうまく処理する
+  **例文:** It's hard to cope with the stress. (ストレスに対処するのは難しい。)
+
+- **熟語:** cut down
+  **意味:** ～を減らす、～を切り倒す
+  **例文:** We need to cut down on our sugar intake. (私たちは砂糖の摂取量を減らす必要がある。)
+
+- **熟語:** deal with
+  **意味:** ～に対処する、～を処理する
+  **例文:** The company is dealing with a crisis. (その会社は危機に対処している。)
+
+- **熟語:** depend on
+  **意味:** ～に頼る、～次第である
+  **例文:** Our success depends on teamwork. (私たちの成功はチームワーク次第だ。)
+
+- **熟語:** do without
+  **意味:** ～なしで済ます、～なしでやっていく
+  **例文:** We'll have to do without coffee for a while. (しばらくコーヒーなしで過ごさなければならないだろう。)
+
+- **熟語:** drop by
+  **意味:** ～に立ち寄る、～をちょっと訪ねる
+  **例文:** I'll drop by your office sometime this week. (今週中にあなたのオフィスに立ち寄ります。)
+
+- **熟語:** end up
+  **意味:** 最後には～になる、結局～に終わる
+  **例文:** We ended up eating at a Japanese restaurant. (私たちは結局、日本食レストランで食事をすることになった。)
+
+- **熟語:** fall apart
+  **意味:** (物が)壊れる、(関係などが)崩壊する
+  **例文:** The old car is falling apart. (その古い車は壊れかけている。)
+
+- **熟語:** figure out
+  **意味:** ～を理解する、～を解明する
+  **例文:** I'm trying to figure out how this works. (どうすればこれが動くのか理解しようとしている。)
+
+- **熟語:** find out
+  **意味:** ～を見つけ出す、～を知る
+  **例文:** I need to find out the train schedule. (電車の時刻表を調べる必要がある。)
+
+- **熟語:** focus on
+  **意味:** ～に焦点を当てる、～に集中する
+  **例文:** We need to focus on the main issues. (私たちは主要な問題に焦点を当てる必要がある。)
+
+- **熟語:** get along with
+  **意味:** ～と仲良くやっていく、～と気が合う
+  **例文:** I get along with my colleagues. (私は同僚と仲良くやっている。)
+
+- **熟語:** get in touch with
+  **意味:** ～と連絡を取る
+  **例文:** Please get in touch with me if you have any questions. (ご質問があれば、私にご連絡ください。)
+
+- **熟語:** get over
+  **意味:** (病気・困難などから)立ち直る、～を乗り越える
+  **例文:** It took her a long time to get over the flu. (彼女がインフルエンザから回復するのに時間がかかった。)
+
+- **熟語:** get rid of
+  **意味:** ～を取り除く、～を処分する
+  **例文:** I want to get rid of these old clothes. (私はこれらの古い服を処分したい。)
+
+- **熟語:** give away
+  **意味:** ～をただで与える、(秘密などを)明かす
+  **例文:** They gave away free tickets to the event. (彼らはイベントの無料チケットを配った。)
+
+- **熟語:** give back
+  **意味:** ～を返す、～を返却する
+  **例文:** Please give back the book when you're finished. (読み終わったら本を返してください。)
+
+- **熟語:** go ahead
+  **意味:** (許可をして)どうぞ、(計画などを)実行する
+  **例文:** Go ahead and start the meeting. (どうぞ会議を始めてください。)
+
+- **熟語:** go on
+  **意味:** ～を続ける、(何かが)起こる
+  **例文:** The show must go on. (ショーは続けなければならない。)
+
+- **熟語:** grow up
+  **意味:** 成長する、大人になる
+  **例文:** I grew up in a small town. (私は小さな町で育った。)
+
+- **熟語:** hand in
+  **意味:** ～を提出する
+  **例文:** Please hand in your assignments by Friday. (金曜日までに課題を提出してください。)
+
+- **熟語:** hang out
+  **意味:** (友達と)ぶらぶらする、時間を過ごす
+  **例文:** We often hang out at the cafe. (私たちはよくカフェでぶらぶらしている。)
+
+- **熟語:** have a hard time
+  **意味:** ～するのに苦労する、～に手こずる
+  **例文:** I had a hard time understanding the lecture. (私は講義を理解するのに苦労した。)
+
+- **熟語:** hold on
+  **意味:** (電話を)切らないで待つ、しっかりつかむ
+  **例文:** Hold on a minute, I'll be right back. (少し待って、すぐに戻ります。)
+
+- **熟語:** in addition to
+  **意味:** ～に加えて
+  **例文:** In addition to English, I also speak French. (英語に加えて、フランス語も話します。)
+
+- **熟語:** in case of
+  **意味:** ～の場合には、～の際に
+  **例文:** In case of fire, use the emergency exit. (火災の場合には、非常口を使用してください。)
+
+- **熟語:** in favor of
+  **意味:** ～に賛成して、～を支持して
+  **例文:** I am in favor of the proposal. (私はその提案に賛成です。)
+
+- **熟語:** in the long run
+  **意味:** 長い目で見れば、結局は
+  **例文:** It might be better in the long run. (長い目で見れば、そちらの方が良いかもしれない。)
+
+- **熟語:** keep an eye on
+  **意味:** ～から目を離さない、～を監視する
+  **例文:** Please keep an eye on the kids. (子供たちから目を離さないでください。)
+
+- **熟語:** keep away from
+  **意味:** ～に近づかない、～を避ける
+  **例文:** Keep away from the edge of the cliff. (崖の端に近づかないでください。)
+
+- **熟語:** keep in mind
+  **意味:** ～を心に留めておく、～を覚えておく
+  **例文:** Keep in mind that the deadline is next week. (締め切りが来週であることを覚えておいてください。)
+
+- **熟語:** look after
+  **意味:** ～の世話をする、～を面倒見る
+  **例文:** She looks after her grandchildren. (彼女は孫たちの世話をしている。)
+
+- **熟語:** look forward to
+  **意味:** ～を楽しみにする
+  **例文:** I'm looking forward to the weekend. (週末を楽しみにしています。)
+
+- **熟語:** look into
+  **意味:** ～を調査する、～を調べる
+  **例文:** We need to look into the cause of the problem. (問題の原因を調査する必要があります。)
+
+- **熟語:** look up to
+  **意味:** ～を尊敬する、～を敬う
+  **例文:** I look up to my older brother. (私は兄を尊敬しています。)
+
+- **熟語:** make a difference
+  **意味:** 違いを生む、影響を与える
+  **例文:** Your efforts can make a difference. (あなたの努力は違いを生むことができる。)
+
+- **熟語:** make an effort
+  **意味:** 努力する、尽力する
+  **例文:** You need to make an effort to improve your grades. (あなたは成績を上げるために努力する必要がある。)
+
+- **熟語:** make fun of
+  **意味:** ～をからかう、～を笑いものにする
+  **例文:** It's not nice to make fun of others. (他人をからかうのは良くない。)
+
+- **熟語:** make sense
+  **意味:** 意味をなす、理にかなう
+  **例文:** His explanation makes sense. (彼の説明は理にかなっている。)
+
+- **熟語:** make sure
+  **意味:** ～を確かめる、～を確実にする
+  **例文:** Make sure to lock the door. (必ずドアをロックしてください。)
+
+- **熟語:** move in
+  **意味:** 引っ越して入る
+  **例文:** They moved in to their new apartment last week. (彼らは先週新しいアパートに引っ越した。)
+
+- **熟語:** move out
+  **意味:** 引っ越して出る
+  **例文:** They moved out of the old house. (彼らは古い家から引っ越した。)
+
+- **熟語:** object to
+  **意味:** ～に反対する
+  **例文:** I object to the new rule. (私はその新しい規則に反対します。)
+
+- **熟語:** on one's own
+  **意味:** 独力で、一人で
+  **例文:** He learned to play the guitar on his own. (彼は独学でギターを弾けるようになった。)
+
+- **熟語:** pass away
+  **意味:** 亡くなる、死去する
+  **例文:** Her grandfather passed away last year. (彼女の祖父は昨年亡くなった。)
+
+- **熟語:** pay attention to
+  **意味:** ～に注意を払う、～に気を配る
+  **例文:** Please pay attention to what I'm saying. (私が言っていることに注意を払ってください。)
+
+- **熟語:** pick up
+  **意味:** ～を拾い上げる、(人)を車で迎えに行く
+  **例文:** I'll pick you up at 7 pm. (午後7時にあなたを迎えに行きます。)
+
+- **熟語:** point out
+  **意味:** ～を指摘する、～を指摘する
+  **例文:** He pointed out my mistake. (彼は私の間違いを指摘した。)
+
+- **熟語:** put off
+  **意味:** ～を延期する、～を先延ばしにする
+  **例文:** We decided to put off the meeting until next week. (私たちは会議を来週に延期することにした。)
+
+- **熟語:** put on
+  **意味:** ～を着る、(ショーなどを)上演する
+  **例文:** She put on her coat. (彼女はコートを着た。)
+
+- **熟語:** put out
+  **意味:** (火などを)消す
+  **例文:** Please put out the candle before you leave. (出発する前にろうそくを消してください。)
+
+- **熟語:** run out of
+  **意味:** ～を使い果たす、～を切らす
+  **例文:** We've run out of milk. (牛乳を切らしてしまった。)
+
+- **熟語:** set up
+  **意味:** ～を設立する、～を準備する
+  **例文:** They set up a new company. (彼らは新しい会社を設立した。)
+
+- **熟語:** show off
+  **意味:** ～を見せびらかす、～を誇示する
+  **例文:** He always tries to show off his new car. (彼はいつも新しい車を見せびらかそうとする。)
+
+- **熟語:** sign up for
+  **意味:** ～に申し込む、～を登録する
+  **例文:** I'm going to sign up for a yoga class. (ヨガのクラスに申し込むつもりです。)
+
+- **熟語:** sort out
+  **意味:** ～を整理する、～を解決する
+  **例文:** We need to sort out this mess. (この混乱を整理する必要がある。)
+
+- **熟語:** stand for
+  **意味:** ～を表す、～の略である
+  **例文:** What does this acronym stand for? (この頭字語は何を表していますか？)
+
+- **熟語:** take after
+  **意味:** (親などに)似ている
+  **例文:** She takes after her mother. (彼女は母親に似ている。)
+
+- **熟語:** take care of
+  **意味:** ～の世話をする、～を処理する
+  **例文:** Please take care of the plants. (植物の世話をしてください。)
+
+- **熟語:** take off
+  **意味:** (飛行機などが)離陸する、～を脱ぐ
+  **例文:** The plane will take off soon. (飛行機はまもなく離陸します。)
+
+- **熟語:** take over
+  **意味:** ～を引き継ぐ、～を支配する
+  **例文:** He took over the company after his father retired. (彼は父親が引退した後、会社を引き継いだ。)
+
+- **熟語:** throw away
+  **意味:** ～を捨てる
+  **例文:** Don't throw away the old newspapers. (古い新聞を捨てないでください。)
+
+- **熟語:** try on
+  **意味:** ～を試着する
+  **例文:** Can I try on this shirt? (このシャツを試着してもいいですか？)
+
+- **熟語:** turn down
+  **意味:** ～を断る、(音量などを)下げる
+  **例文:** I had to turn down the job offer. (私はその仕事のオファーを断らなければならなかった。)
+
+- **熟語:** turn into
+  **意味:** ～に変わる、～になる
+  **例文:** The caterpillar turned into a butterfly. (毛虫は蝶になった。)
+
+- **熟語:** turn out
+  **意味:** ～になる、(事が)判明する
+  **例文:** It turned out to be a great day. (結果的に素晴らしい一日になった。)
+
+- **熟語:** use up
+  **意味:** ～を使い果たす、～を消費する
+  **例文:** We used up all the sugar. (砂糖を全部使い果たしてしまった。)
+
+- **熟語:** wake up
+  **意味:** 目が覚める、～を起こす
+  **例文:** I wake up early every morning. (私は毎朝早く目が覚める。)
+
+- **熟語:** work out
+  **意味:** (問題などを)解決する、(運動などを)する
+  **例文:** We need to work out a solution to this problem. (私たちはこの問題の解決策を見つけ出す必要がある。)
+---
