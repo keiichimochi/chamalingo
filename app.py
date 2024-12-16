@@ -43,6 +43,13 @@ st.markdown("""
     audio {
         display: none;
     }
+    .review-card {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        margin: 10px 0;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -82,6 +89,12 @@ if 'play_correct' not in st.session_state:
     st.session_state.play_correct = False
 if 'play_incorrect' not in st.session_state:
     st.session_state.play_incorrect = False
+if 'question_count' not in st.session_state:
+    st.session_state.question_count = 0
+if 'wrong_phrases' not in st.session_state:
+    st.session_state.wrong_phrases = []
+if 'game_over' not in st.session_state:
+    st.session_state.game_over = False
 
 # データの読み込み
 def load_phrases():
@@ -100,6 +113,28 @@ def load_phrases():
             })
     return phrases_data
 
+def show_review():
+    st.markdown("## 🔍 復習が必要な熟語")
+    if len(st.session_state.wrong_phrases) == 0:
+        st.success("🎉 全問正解！素晴らしいナリ！")
+    else:
+        for phrase in st.session_state.wrong_phrases:
+            st.markdown(f"""
+            <div class="review-card">
+                <h3>🎯 {phrase['phrase']}</h3>
+                <p><strong>意味:</strong> {phrase['meaning']}</p>
+                <p><strong>例文:</strong> {phrase['example']}</p>
+            </div>
+            """, unsafe_allow_html=True)
+    
+    if st.button("もう一度チャレンジ！ 🔄"):
+        st.session_state.score = 0
+        st.session_state.question_count = 0
+        st.session_state.wrong_phrases = []
+        st.session_state.game_over = False
+        st.session_state.current_phrase = None
+        st.experimental_rerun()
+
 # メインアプリ
 def main():
     st.title("🦎 Chamalingo")
@@ -113,13 +148,27 @@ def main():
         st.markdown(incorrect_audio, unsafe_allow_html=True)
         st.session_state.play_incorrect = False
     
+    # ゲーム終了時のレビュー画面
+    if st.session_state.game_over:
+        show_review()
+        return
+    
     phrases = load_phrases()
+    
+    # 進捗バーの表示
+    progress = st.session_state.question_count / 10
+    st.progress(progress)
+    st.markdown(f"### 問題 {st.session_state.question_count + 1}/10")
     
     # 新しい問題を生成
     if not st.session_state.current_phrase or st.session_state.answered:
+        if st.session_state.question_count >= 10:
+            st.session_state.game_over = True
+            st.experimental_rerun()
+            return
         st.session_state.current_phrase = random.choice(phrases)
         st.session_state.answered = False
-        st.session_state.wrong_attempts = 0  # 新しい問題が始まったらリセット
+        st.session_state.wrong_attempts = 0
     
     # 問題表示
     st.markdown(f"""
@@ -146,6 +195,7 @@ def main():
                 st_lottie(lottie_correct, height=200, key="correct")
                 st.session_state.play_correct = True
                 st.session_state.answered = True
+                st.session_state.question_count += 1
             else:
                 st.session_state.wrong_attempts += 1
                 if st.session_state.wrong_attempts >= 3:
@@ -155,13 +205,17 @@ def main():
                     ### 正解は: {st.session_state.current_phrase['meaning']} ナリ！
                     #### 例文: {st.session_state.current_phrase['example']}
                     """)
+                    # 間違えた熟語を記録
+                    if st.session_state.current_phrase not in st.session_state.wrong_phrases:
+                        st.session_state.wrong_phrases.append(st.session_state.current_phrase)
                     st.session_state.answered = True
+                    st.session_state.question_count += 1
                 else:
                     st.error(f"😢 不正解... (残り{3 - st.session_state.wrong_attempts}回)")
                     st.session_state.play_incorrect = True
             
     # スコア表示
-    st.sidebar.markdown(f"### スコア: {st.session_state.score}")
+    st.sidebar.markdown(f"### スコア: {st.session_state.score}/10")
     
     # 次の問題へ
     if st.session_state.answered:
