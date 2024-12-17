@@ -1,0 +1,622 @@
+{
+  "idioms": [
+    {
+      "id": 1,
+      "phrase": "account for",
+      "meaning": "～を説明する、～の割合を占める",
+      "example": "The heavy rain accounted for the cancellation of the game."
+    },
+    {
+      "id": 2,
+      "phrase": "act up",
+      "meaning": "(機械などが)調子が悪くなる、(子供などが)いたずらをする",
+      "example": "My computer is acting up again."
+    },
+        {
+      "id": 3,
+      "phrase": "adhere to",
+      "meaning": "～に従う、～に固執する",
+      "example": "We must adhere to the rules."
+    },
+    {
+      "id": 4,
+      "phrase": "all but",
+      "meaning": "ほとんど～、～も同然",
+      "example": "The project was all but finished."
+    },
+    {
+      "id": 5,
+      "phrase": "allow for",
+      "meaning": "～を考慮に入れる、～を見込む",
+      "example": "We need to allow for unexpected delays."
+    },
+    {
+      "id": 6,
+       "phrase": "answer for",
+      "meaning": "～の責任を取る、～を保証する",
+      "example": "You will have to answer for your actions."
+    },
+   {
+      "id": 7,
+       "phrase": "anything but",
+      "meaning": "決して～ではない",
+      "example": "The movie was anything but boring."
+    },
+    {
+      "id": 8,
+      "phrase": "as it were",
+      "meaning": "いわば、言ってみれば",
+      "example": "He is, as it were, a modern-day samurai."
+    },
+    {
+      "id": 9,
+       "phrase":"aspire to",
+      "meaning": "～を熱望する、～を目指す",
+      "example": "She aspires to become a doctor."
+    },
+    {
+      "id": 10,
+      "phrase": "at odds with",
+      "meaning": "～と不和で、～と意見が合わなくて",
+      "example": "He is at odds with his colleagues."
+    },
+    {
+      "id": 11,
+       "phrase": "attribute A to B",
+      "meaning":"AをBのせいにする、AはBのおかげだと考える",
+      "example": "He attributed his success to hard work."
+    },
+    {
+       "id": 12,
+      "phrase":"back down",
+      "meaning":"自分の非を認める、(要求を)撤回する",
+      "example":"Neither side is willing to back down."
+    },
+    {
+       "id": 13,
+      "phrase":"be committed to",
+       "meaning":"～に専念している、～に熱心に取り組んでいる",
+        "example":"The company is committed to environmental protection."
+    },
+     {
+        "id":14,
+       "phrase":"be cut out for",
+       "meaning":"～に向いている",
+        "example":"He is not cut out for teaching."
+    },
+     {
+      "id":15,
+        "phrase":"be geared toward",
+        "meaning":"～向けに調整されている、～に適している",
+        "example":"The program is geared toward beginners."
+    },
+    {
+      "id":16,
+        "phrase":"be subject to",
+         "meaning":"～の影響を受けやすい、～を条件とする",
+        "example":"Flights are subject to delay due to bad weather."
+    },
+    {
+      "id":17,
+         "phrase":"bear out",
+        "meaning":"～を裏付ける、～を証明する",
+        "example":"The evidence bears out his claim."
+    },
+      {
+        "id":18,
+      "phrase":"boil down to",
+       "meaning":"要するに～ということになる、～に帰着する",
+       "example":"It all boils down to money."
+    },
+    {
+        "id":19,
+        "phrase":"border on",
+       "meaning":"ほとんど～に近い、～に接する",
+      "example":"His behavior borders on rudeness."
+    },
+    {
+      "id":20,
+       "phrase":"bounce back",
+        "meaning":"(病気・失敗などから)立ち直る、回復する",
+      "example":"He quickly bounced back from his illness."
+    },
+    {
+      "id":21,
+        "phrase":"break down",
+      "meaning":"故障する、決裂する、感情を抑えられなくなる",
+       "example":"The negotiations broke down."
+    },
+    {
+     "id":22,
+       "phrase":"break in on",
+       "meaning":"～の邪魔をする、～に口出しする",
+      "example":"He broke in on our conversation."
+    },
+    {
+      "id":23,
+       "phrase":"break out",
+      "meaning":"(戦争・火事・病気などが)勃発する、急に発生する",
+      "example":"A fire broke out in the building."
+    },
+    {
+       "id":24,
+        "phrase":"brush up on",
+        "meaning":"～をやり直して磨きをかける、～を復習する",
+        "example":"I need to brush up on my English."
+    },
+     {
+       "id":25,
+        "phrase":"build on",
+        "meaning":"～を土台とする、～に基づいてさらに発展させる",
+       "example":"We need to build on our success."
+    },
+        {
+       "id":26,
+          "phrase":"by and large",
+          "meaning":"概して、全体的に見て",
+         "example":"By and large, the event was a success."
+    },
+    {
+        "id":27,
+         "phrase":"call for",
+        "meaning":"～を必要とする、～を要求する",
+      "example":"The situation calls for immediate action."
+    },
+        {
+      "id":28,
+        "phrase":"call off",
+        "meaning":"～を中止する、～を取り消す",
+      "example":"The game was called off due to rain."
+    },
+    {
+        "id":29,
+       "phrase":"carry out",
+        "meaning":"～を実行する、～を遂行する",
+      "example":"They carried out the plan successfully."
+    },
+    {
+      "id":30,
+        "phrase":"catch on",
+        "meaning":"(意味を)理解する、流行する",
+      "example":"The new fashion quickly caught on."
+    },
+    {
+      "id":31,
+      "phrase":"cater to",
+       "meaning":"～の要望に応える、～に料理を届ける",
+      "example":"The hotel caters to business travelers."
+    },
+        {
+      "id":32,
+       "phrase":"check up on",
+        "meaning":"～がきちんとしているか調べる、～の様子を見る",
+      "example":"I need to check up on the children."
+    },
+    {
+      "id":33,
+      "phrase":"chip in",
+       "meaning":"(お金を)出し合う、寄付する",
+      "example":"Let's all chip in and buy her a gift."
+    },
+    {
+      "id":34,
+       "phrase":"come about",
+        "meaning":"起こる、生じる",
+      "example":"How did the accident come about?"
+    },
+     {
+       "id":35,
+        "phrase":"come across",
+         "meaning":"～を偶然見つける、～に偶然出会う",
+      "example":"I came across an old friend yesterday."
+    },
+    {
+      "id":36,
+       "phrase":"come down with",
+       "meaning":"(病気に)かかる",
+       "example":"I think I'm coming down with a cold."
+    },
+      {
+      "id":37,
+        "phrase":"come to terms with",
+      "meaning":"～を受け入れる、～と折り合いをつける",
+      "example":"He finally came to terms with his illness."
+    },
+    {
+     "id":38,
+       "phrase":"come up with",
+      "meaning":"～を思いつく、～を提案する",
+       "example":"She came up with a great idea."
+    },
+      {
+       "id":39,
+      "phrase":"crack down on",
+       "meaning":"～を厳しく取り締まる、～を弾圧する",
+        "example":"The police are cracking down on illegal parking."
+    },
+        {
+     "id":40,
+       "phrase":"cut back on",
+      "meaning":"～を削減する、～を切り詰める",
+       "example":"We need to cut back on expenses."
+    },
+    {
+     "id":41,
+      "phrase":"delve into",
+       "meaning":"～を徹底的に調べる、～を掘り下げる",
+      "example":"The book delves into the history of the city."
+    },
+     {
+     "id":42,
+       "phrase":"dispense with",
+      "meaning":"～なしで済ませる、～を不要にする",
+       "example":"Let's dispense with the formalities."
+    },
+   {
+      "id":43,
+        "phrase":"do away with",
+        "meaning":"～を廃止する、～を取り除く",
+       "example":"The government decided to do away with the old law."
+    },
+    {
+      "id":44,
+      "phrase":"drag on",
+       "meaning":"だらだらと長引く",
+      "example":"The meeting dragged on for hours."
+    },
+        {
+      "id":45,
+      "phrase":"draw on",
+      "meaning":"～を利用する、～を活かす",
+      "example":"We can draw on our experience to solve the problem."
+    },
+      {
+        "id":46,
+      "phrase":"dwell on",
+        "meaning":"～をくよくよ考える、～を長々と話す",
+      "example":"Don't dwell on your mistakes."
+    },
+      {
+      "id":47,
+       "phrase":"embark on",
+       "meaning":"～に乗り出す、～に着手する",
+      "example":"They embarked on a new business venture."
+    },
+     {
+       "id":48,
+      "phrase":"end up",
+      "meaning":"最後には～になる、結局～に終わる",
+      "example":"We ended up staying at home."
+    },
+    {
+      "id":49,
+       "phrase":"fall back on",
+      "meaning":"～を頼りにする、～に助けを求める",
+       "example":"She can always fall back on her family for support."
+    },
+        {
+       "id":50,
+      "phrase":"fall short of",
+      "meaning":"～に達しない、～に及ばない",
+      "example":"The results fell short of expectations."
+    },
+    {
+      "id":51,
+      "phrase":"figure out",
+      "meaning":"～を理解する、～を解明する",
+      "example":"I can't figure out how to use this machine."
+    },
+    {
+     "id":52,
+       "phrase":"fill in for",
+      "meaning":"～の代理を務める、～の代役をする",
+      "example":"Can you fill in for me tomorrow?"
+    },
+    {
+      "id":53,
+     "phrase":"follow through",
+        "meaning":"最後までやり通す、徹底的にやる",
+       "example":"It's important to follow through on your promises."
+    },
+      {
+     "id":54,
+       "phrase":"for all",
+        "meaning":"～にもかかわらず",
+      "example":"For all his efforts, he failed the exam."
+    },
+     {
+     "id":55,
+      "phrase":"for the time being",
+      "meaning":"当分の間、さしあたり",
+      "example":"For the time being, we will continue with the current plan."
+    },
+     {
+      "id":56,
+       "phrase":"get across",
+       "meaning":"～を理解させる、～を伝える",
+        "example":"He couldn't get his message across."
+    },
+        {
+      "id":57,
+       "phrase":"get around to",
+       "meaning":"～をする時間を見つける、～を始める",
+       "example":"I finally got around to cleaning my room."
+    },
+    {
+      "id":58,
+     "phrase":"get away with",
+        "meaning":"～をうまく逃れる、～をとがめられずに済む",
+      "example":"He got away with cheating on the test."
+    },
+     {
+      "id":59,
+        "phrase":"get by",
+      "meaning":"なんとかやっていく、やりくりする",
+      "example":"We can get by with very little money."
+    },
+       {
+      "id":60,
+       "phrase":"give in to",
+       "meaning":"～に屈する、～に負ける",
+       "example":"She finally gave in to his demands."
+    },
+    {
+       "id":61,
+      "phrase":"give off",
+        "meaning":"(光・熱・においなどを)発する、出す",
+      "example":"The flowers gave off a sweet fragrance."
+    },
+      {
+       "id":62,
+      "phrase":"give rise to",
+      "meaning":"～を引き起こす、～の原因となる",
+      "example":"The new policy gave rise to much debate."
+    },
+    {
+     "id":63,
+       "phrase":"go through with",
+        "meaning":"～を最後までやり通す、～を実行する",
+       "example":"He decided to go through with the plan."
+    },
+    {
+      "id":64,
+       "phrase":"hammer out",
+        "meaning":"～を苦労してまとめる、～を徹底的に議論して解決する",
+      "example":"They hammered out an agreement after hours of negotiation."
+    },
+        {
+     "id":65,
+       "phrase":"hand down",
+        "meaning":"～を後世に伝える、～を判決として言い渡す",
+      "example":"The tradition was handed down from generation to generation."
+    },
+     {
+      "id":66,
+      "phrase":"hand over",
+      "meaning":"～を引き渡す、～を譲り渡す",
+      "example":"He handed over the documents to the police."
+    },
+     {
+      "id":67,
+       "phrase":"hinge on",
+        "meaning":"～次第である、～にかかっている",
+       "example":"The success of the project hinges on our efforts."
+    },
+    {
+     "id":68,
+       "phrase":"hold off",
+       "meaning":"～を延期する、～を遅らせる",
+       "example":"Let's hold off making a decision until we have more information."
+    },
+    {
+       "id":69,
+       "phrase":"hold on to",
+      "meaning":"～をしっかりつかむ、～を持ち続ける",
+        "example":"Hold on to your hat in the wind."
+    },
+     {
+      "id":70,
+      "phrase":"hold out for",
+      "meaning":"～を要求して譲らない、～をあくまでも要求する",
+     "example":"The workers are holding out for higher pay."
+    },
+    {
+      "id":71,
+       "phrase":"in that",
+      "meaning":"～という点で、～なので",
+      "example":"The movie is unusual in that it features an all-female cast."
+    },
+     {
+      "id":72,
+       "phrase":"in the event of",
+        "meaning":"～の場合には、～が起こったら",
+       "example":"In the event of rain, the event will be held indoors."
+    },
+    {
+      "id":73,
+        "phrase":"iron out",
+        "meaning":"～を解決する、～を取り除く",
+      "example":"We need to iron out the problems before we can proceed."
+    },
+      {
+      "id":74,
+         "phrase":"jot down",
+       "meaning":"～を書き留める、～をメモする",
+       "example":"Jot down the main points of the lecture."
+    },
+    {
+      "id":75,
+        "phrase":"keep abreast of",
+        "meaning":"～に遅れずについていく、～に通じている",
+      "example":"It's important to keep abreast of the latest developments."
+    },
+      {
+     "id":76,
+      "phrase":"keep up with",
+        "meaning":"～に遅れずについていく、～と連絡を取り合う",
+        "example":"I can't keep up with all the changes."
+    },
+       {
+        "id":77,
+          "phrase":"lay down",
+         "meaning":"～を定める、～を規定する",
+      "example":"The rules are laid down in the contract."
+    },
+    {
+      "id":78,
+      "phrase":"let on",
+       "meaning":"(秘密などを)明かす、口外する",
+        "example":"Don't let on that I told you."
+    },
+    {
+      "id":79,
+      "phrase":"live up to",
+       "meaning":"～に添う、～に応える",
+        "example":"The movie didn't live up to my expectations."
+    },
+        {
+      "id":80,
+        "phrase":"look down on",
+       "meaning":"～を見下す、～を軽蔑する",
+      "example":"He looks down on people who are less educated than him."
+    },
+       {
+       "id":81,
+         "phrase":"look in on",
+       "meaning":"～の様子を見に行く、～をちょっと訪ねる",
+       "example":"I'll look in on you later to see how you're doing."
+    },
+    {
+       "id":82,
+       "phrase":"make do with",
+        "meaning":"～で間に合わせる、～で済ます",
+       "example":"We'll have to make do with what we have."
+    },
+      {
+       "id":83,
+      "phrase":"map out",
+      "meaning":"～を計画する、～の具体的な計画を立てる",
+      "example":"We need to map out a strategy for the future."
+    },
+      {
+      "id":84,
+        "phrase":"nothing less than",
+        "meaning":"まさに～、～にほかならない",
+       "example":"His achievement is nothing less than remarkable."
+    },
+      {
+      "id":85,
+        "phrase":"on a par with",
+      "meaning":"～と同等で、～と同じレベルで",
+      "example":"Her work is on a par with the best in the field."
+    },
+    {
+       "id":86,
+       "phrase":"on behalf of",
+       "meaning":"～を代表して、～の代わりに",
+       "example":"I'm speaking on behalf of the entire team."
+    },
+    {
+      "id":87,
+       "phrase":"on the verge of",
+      "meaning":"～の間際で、～しようとして",
+      "example":"The company was on the verge of bankruptcy."
+    },
+    {
+      "id":88,
+     "phrase":"opt for",
+        "meaning":"～を選ぶ、～の方を取る",
+      "example":"I decided to opt for the cheaper option."
+    },
+    {
+       "id":89,
+        "phrase":"pan out",
+        "meaning":"(事が)うまくいく、成功する",
+        "example":"I hope everything pans out as planned."
+    },
+     {
+       "id":90,
+        "phrase":"pass off A as B",
+      "meaning":"AをBだと偽る",
+        "example":"He tried to pass off the fake painting as an original."
+    },
+     {
+       "id":91,
+         "phrase":"pass up",
+       "meaning":"(機会などを)見送る、逃す",
+        "example":"Don't pass up this opportunity."
+    },
+      {
+       "id":92,
+       "phrase":"phase out",
+       "meaning":"～を段階的に廃止する",
+        "example":"The company is phasing out its old products."
+    },
+     {
+       "id":93,
+       "phrase":"piece together",
+       "meaning":"～をつなぎ合わせる、～をまとめて作り上げる",
+       "example":"The police are trying to piece together what happened."
+    },
+     {
+       "id":94,
+        "phrase":"pin down",
+      "meaning":"(人)を特定する、(原因など)を突き止める、(人)に確約させる",
+        "example":"It's difficult to pin down the exact cause of the problem."
+    },
+    {
+       "id":95,
+        "phrase":"pitch in",
+      "meaning":"協力する、(金銭などを)出し合う",
+        "example":"Everyone pitched in to help with the project."
+    },
+      {
+      "id":96,
+       "phrase":"play down",
+      "meaning":"～を軽く扱う、～を軽視する",
+       "example":"The government tried to play down the seriousness of the situation."
+    },
+      {
+       "id":97,
+       "phrase":"pull off",
+       "meaning":"～をうまくやってのける、～を成功させる",
+       "example":"She pulled off a surprising victory."
+    },
+    {
+      "id":98,
+       "phrase":"put forth",
+      "meaning":"(案などを)出す、提案する",
+       "example":"He put forth a new proposal."
+    },
+       {
+      "id":99,
+        "phrase":"rack up",
+      "meaning":"(利益・得点などを)蓄積する、(損失・敗北などを)被る",
+        "example":"The company racked up huge profits last year."
+    },
+      {
+      "id":100,
+      "phrase":"rake in",
+      "meaning":"(大金を)稼ぐ、(賞などを)大量に取る",
+      "example":"The movie raked in millions of dollars at the box office."
+    },
+        {
+      "id":101,
+      "phrase":"rally around",
+      "meaning":"～のもとに結集する、～を支援する",
+      "example":"The community rallied around the family after the tragedy."
+    },
+    {
+     "id":102,
+      "phrase":"regardless of",
+      "meaning":"～に関係なく、～にかかわらず",
+       "example":"Everyone is welcome, regardless of age."
+    },
+    {
+       "id":103,
+      "phrase":"revert to",
+      "meaning":"(元の状態に)戻る、(元の習慣などを)再び始める",
+       "example":"After the experiment, the substance reverted to its original form."
+    }
+  ]
+}

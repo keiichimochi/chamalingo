@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container py-4">
+    <div class="text-center mb-4">
+        <h1 class="display-4 text-primary">英熟語マスター</h1>
+        <div class="progress mb-3">
+            <div id="progressBar" class="progress-bar" role="progressbar" style="width: 0%"></div>
+        </div>
+        <p id="score" class="h5">スコア: 0/0</p>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <div id="quizContainer" class="text-center">
+                <h2 id="phrase" class="mb-4"></h2>
+                <p id="example" class="mb-3 text-muted fst-italic"></p>
+                <div id="choices" class="d-grid gap-2">
+                    <!-- Choices will be inserted here -->
+                </div>
+            </div>
+
+            <div id="resultContainer" class="text-center d-none">
+                <h3>結果</h3>
+                <p>正解率: <span id="finalScore"></span></p>
+                <div id="missedQuestions" class="text-start">
+                    <!-- Missed questions will be listed here -->
+                </div>
+                <button id="restartBtn" class="btn btn-primary mt-3">もう一度チャレンジ</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/audio.js') }}"></script>
+<script src="{{ url_for('static', filename='js/quiz.js') }}"></script>
+{% endblock %}
